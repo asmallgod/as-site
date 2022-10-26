@@ -13,7 +13,7 @@ description = "A small blog site."
 dateFormat = "2 January 2006"
 
 [author]
-bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+bio = "全菜攻城狮，主修前端、图形学相关。"
 headline = "用于记一些代码实验和学习笔记。"
 image = "img/asmallgod.jpg"
 links = [

@@ -1,8 +1,7 @@
 ---
 title: "First Blog Post"
 date: 2022-10-21T16:43:24+08:00
-tags: ["hello"]
-tags: ["chart", "sample", "graph", "shortcodes"]
+tags: ["test"]
 draft: false
 ---
 
