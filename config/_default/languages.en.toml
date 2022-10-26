@@ -1,0 +1,23 @@
+displayName = "EN"
+isoCode = "en"
+languageCode = "en"
+languageName = "English"
+rtl = false
+weight = 1
+
+title = "言成禾子"
+# logo = "img/asmallgod.jpg"
+description = "A small blog site."
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+headline = "用于记一些代码实验和学习笔记。"
+image = "img/asmallgod.jpg"
+links = [
+  {github = "https://github.com/asmallgod"},
+  {codepen = "https://codepen.io/asmallgod"},
+]
+name = "asmallgod"
